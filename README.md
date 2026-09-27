@@ -1,113 +1,97 @@
-", "Angular"],
-      css: ["Bootstrap"]
-    },
-    backEnd: {
-      python: ["Django"],
-      php: ["Laravel"]
-    },
-    data: ["Databricks", "PySpark", "SQL"],
-    devOps: ["Docker🐳", "Kubernetes", "Git"]
-  },
-  databases: ["MySQL", "MongoDB"],
-  currentFocus: "Exploring new data engineering tools and techniques",
-  funFact: "Coding is my meditation 🧘‍♂️"
-};
-```
+# 💫 About Me:
+SURYA TEJA<br><br>Data Engineering | Databricks | PySpark | SQL | Cloud Analytics<br><br>Professional Introduction<br><br>About Me<br><br>Featured Project<br>→ FMCG Data Engineering & Analytics Platform<br><br>Technical Skills<br><br>Data Engineering Focus<br><br>Technology Stack<br><br>Currently Learning<br><br>Career Focus<br><br>Connect
 
-### About Me ℹ️
-I am Surya Teja, a passionate B.Tech student from Chennai with a flair for all things technical. My GitHub journey showcases my dedication to coding through various projects that explore different tech stacks and languages.
 
-### 🔧 Skills & Interests
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Technologies:** Databricks, PySpark, SQL
-- **Areas of Interest:** Data Engineering, Web Development, Cloud Computing
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/surya-teja/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryatummalapali@gmail.com) 
 
-### 🌟 Highlighted Projects
-- [fmcg-databricks-project](https://github.com/SuryaTummalapalli/fmcg-databricks-project)
-- [Online Voting System](https://github.com/SuryaTummalapalli/Online-voting-system)
-- `welth`, `job-Portal`, `spendsmart-`
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=SuryaTummalapalli&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=SuryaTummalapalli&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SuryaTummalapalli&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 📈 GitHub Activity
-- **Public Repositories:** 9
-- **Total Commits:** 14
-- **Followers:** 8
+---
+[![](https://komarev.com/ghpvc/?username=SuryaTummalapalli&icon=0&color=0)](https://visitcount.itsvg.in)
+---
 
-### 📫 Contact Me
-- Connect on [LinkedIn](https://www.linkedin.com/in/suryateja/)
-- Drop a message at suryateja@email.com
+## 🎯 Professional Focus
 
-# S###urya Teja 🚀 Let's's Code Together GitHub Profile 🚀
+I am focused on building practical solutions across **Data Engineering, Cloud Data Platforms, Analytics, and AI-assisted data applications**.
 
-Hey there!!
- Welcome toFeel free to explore my repositories and reach out for collaborations or discussions my. Happy GitHub profile. I am Surya Teja, a passionate B.Tech student based in Chennai who loves diving into technical projects and coding exploring various! 🥳
+My current areas of focus include:
 
- programming languages and technologies. Let---
+- Designing and developing data pipelines
+- Data ingestion, transformation, and validation
+- Apache Spark and PySpark processing
+- Databricks and Delta Lake
+- SQL-based data processing and analytics
+- Incremental data processing
+- Data quality and monitoring
+- Business intelligence and dashboard development
+- AI-assisted and natural-language analytics
 
-'s take**GitHub Stats a closer:**
- look at my GitHub![Github activity and projects:
+---
 
- Stats](https## 🌟 GitHub Stats://
+## 🚀 Featured Project
 
-![github-readme-stats.verGithub Stats](https://github-readme-stats.vercel.appcel.app/api?username/api?username=S=SuryaTuryummalaTumapallimalapalli)
-)
-![Top![ Languages](Top Langhttps://s](github-readme-statshttps.ver://cel.app/apigithub-read/top-lme-statsangs/?.verusername=Scelurya.app/apiTummalap/topalli)
+### FMCG Data Engineering & Analytics Platform
 
--langs/?## 💻 Skills &username Interests=S
+**Databricks · PySpark · SQL · Delta Lake · Power BI · Databricks Genie · GitHub**
 
-###urya CodeTum Languages:
-- Python
--malapalli)
-[![ JavaScript
-- HTML
-- CSS
-- PHP
+An end-to-end data engineering and analytics platform that transforms FMCG business data into business-ready analytical datasets.
 
-###trophy](https://github Specializations:
---profile-trophy.ver Data Engineering
-- Data Analyticscel
-.app/?username- Web Development=S
-- MERNury StackaT
+**Key areas demonstrated:**
 
-## 🚀ummalapalli Featured Projects
+- Bronze → Silver → Gold Medallion Architecture
+- Data ingestion and transformation
+- Fact and dimension processing
+- Incremental data processing
+- Data quality and validation
+- Monitoring and audit concepts
+- Business-ready Gold-layer datasets
+- Interactive Power BI analytics
+- Natural-language analytics using Databricks Genie
+- GitHub-based source control
 
-### Online Voting)]( Systemhttps://
-- A secure platformgithub.com/Sury built fora conducting efficientT elections using modern technologiesummalapalli.
+🔗 **[View Project Repository](https://github.com/SuryaTummalapalli/fmcg-databricks-project)**
 
-### welth)
+---
 
-[- An engaging![GitHub Streak web development project showcasing](https the functionalities of personal finance tracking applications://st.
+## 🧰 Core Technical Expertise
 
-reak### job--statsPortal
-.d- Aemolab job portal project utilizing.com/? MERN stack technologiesuser=SuryaT for seamless job search experiencesummalap.
+| Category | Technologies |
+|---|---|
+| **Data Engineering** | Databricks, Apache Spark, PySpark, SQL, Delta Lake |
+| **Data Processing** | ETL / ELT, Data Transformation, Incremental Processing |
+| **Data Quality** | Validation, Data Quality Checks, Monitoring |
+| **Analytics** | Power BI, Business Intelligence, KPI Analysis |
+| **AI & Analytics** | Databricks Genie, Natural-Language Analytics |
+| **Programming** | Python, Java, C++, JavaScript |
+| **Databases** | MySQL, MongoDB |
+| **Version Control** | Git, GitHub |
+| **Development Tools** | Docker, Kubernetes |
 
-### spendsmart-
-alli- Focus)]es(https on personal finance://git tracking applications.io/st, promotingreak-stats smart spending habits.
+---
 
-)
+## 📐 Data Engineering Approach
 
-##### 🌐 Reach Out 🛡 and Connect️ Badges
+I approach data engineering projects with a focus on creating reliable and maintainable data flows:
 
-- Connect with me
- on- [LinkedIn [![Tech Enthusi](https://www.linkedin.com/inast/surya-teja]()  
-- Reachhttps:// out viaimg.shields email at surya.teja.io@example.com/badge/Tech
-
--Enthusiast-red## 🌈 Conclusion)](https:// & Outlook
-
-I am constantlygithub.com/Sury exploring new avenues in thea technicalT landscape, building innovative projects, and expanding myummal skill setap. Join me onalli)
-- this exciting [![Data Lover](https journey through://img the world.sh of codingields.io/b and technology! Letadge/Data's connect-Lover, collaborate, and learn together-bluev.
-
-Connectiolet, create, collaborate)](https://github – the possibilities are limitless!.com/Surya Let's build a brighterTummalap future,alli)
- one line of code at a- [![Coding time. Thank you Addict for visiting my GitHub](https://img.shields.io/b profile! 🌟
-
-adge/Coding---
-
-🔍 Don't miss out-Addict on exploring-yellow more about)](https me – Check out://github my repositories and let.com/S's connect! Join me onuryaTummalapalli)
-
- this adventure of coding and--- 
-
-#### Special tech! 🌠
-
- Note---
-
-:*This 
-I README was dynamically generated am a - Let's create exceptional projects B.Tech student who loves together!* exploring new technologies and expanding my coding skills. Let's collaboratively create innovative solutions and grow together in the tech world! 💻🌟
+```text
+Business Requirement
+        ↓
+Source Data
+        ↓
+Data Ingestion
+        ↓
+Data Transformation
+        ↓
+Data Quality & Validation
+        ↓
+Business-Ready Data
+        ↓
+Analytics & Reporting
+        ↓
+Business Insights
